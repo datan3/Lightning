@@ -12,7 +12,7 @@ void setup()
 
 void draw()
 {
-  stroke(255,255,0);
+  stroke(255,0,0);
   
   while(endY < 500)
   {
