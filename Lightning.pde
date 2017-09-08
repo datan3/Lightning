@@ -5,7 +5,7 @@ int endY = 0;
 
 void setup()
 {
-  size(600,600);
+  size(500,500);
   strokeWeight(2);
   background(0);
 }
